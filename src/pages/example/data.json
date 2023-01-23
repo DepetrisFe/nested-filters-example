@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "deviceType": "Phone",
+    "brand": "Samsung",
+    "model": "Galaxy s22",
+    "storage": "128gb",
+    "ram": "6gb"
+  },
+  {
+    "id": 2,
+    "deviceType": "Phone",
+    "brand": "Samsung",
+    "model": "Galaxy s22",
+    "storage": "256gb",
+    "ram": "8gb"
+  },
+  {
+    "id": 3,
+    "deviceType": "Phone",
+    "brand": "Samsung",
+    "model": "Galaxy s22",
+    "storage": "1tb",
+    "ram": "12gb"
+  },
+  {
+    "id": 4,
+    "deviceType": "Phone",
+    "brand": "Samsung",
+    "model": "Galaxy s21 Ultra",
+    "storage": "512gb",
+    "ram": "8gb"
+  },
+  {
+    "id": 5,
+    "deviceType": "Phone",
+    "brand": "Samsung",
+    "model": "Note 10",
+    "storage": "256gb",
+    "ram": "6gb"
+  },
+  {
+    "id": 6,
+    "deviceType": "Phone",
+    "brand": "Xiaomi",
+    "model": "Redmi Note 7",
+    "storage": "64gb",
+    "ram": "4gb"
+  },
+  {
+    "id": 7,
+    "deviceType": "Phone",
+    "brand": "Xiaomi",
+    "model": "Redmi Note 7",
+    "storage": "128gb",
+    "ram": "4gb"
+  },
+  {
+    "id": 8,
+    "deviceType": "Phone",
+    "brand": "Xiaomi",
+    "model": "MI 12",
+    "storage": "256gb",
+    "ram": "6gb"
+  },
+  {
+    "id": 9,
+    "deviceType": "Phone",
+    "brand": "Xiaomi",
+    "model": "MI 12",
+    "storage": "512gb",
+    "ram": "8gb"
+  },
+  {
+    "id": 10,
+    "deviceType": "Phone",
+    "brand": "Apple",
+    "model": "Iphone 13",
+    "storage": "256gb",
+    "ram": "6gb"
+  },
+  {
+    "id": 11,
+    "deviceType": "Phone",
+    "brand": "Apple",
+    "model": "Iphone 13",
+    "storage": "512gb",
+    "ram": "6gb"
+  },
+  {
+    "id": 12,
+    "deviceType": "Phone",
+    "brand": "Apple",
+    "model": "Iphone 14 Pro",
+    "storage": "512gb",
+    "ram": "8gb"
+  },
+  {
+    "id": 13,
+    "deviceType": "Phone",
+    "brand": "Apple",
+    "model": "Iphone Xr",
+    "storage": "128gb",
+    "ram": "4gb"
+  },
+  {
+    "id": 14,
+    "deviceType": "Tablet",
+    "brand": "Samsung",
+    "model": "A8",
+    "storage": "64gb",
+    "ram": "4gb"
+  },
+  {
+    "id": 15,
+    "deviceType": "Tablet",
+    "brand": "Samsung",
+    "model": "A10",
+    "storage": "32gb",
+    "ram": "4gb"
+  },
+  {
+    "id": 16,
+    "deviceType": "Tablet",
+    "brand": "Xiaomi",
+    "model": "Mi Pad 5",
+    "storage": "128gb",
+    "ram": "6gb"
+  },
+  {
+    "id": 17,
+    "deviceType": "Tablet",
+    "brand": "Apple",
+    "model": "Ipad Mini",
+    "storage": "128gb",
+    "ram": "6gb"
+  },
+  {
+    "id": 18,
+    "deviceType": "Tablet",
+    "brand": "Apple",
+    "model": "Ipad Pro",
+    "storage": "512gb",
+    "ram": "8gb"
+  }
+]

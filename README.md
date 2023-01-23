@@ -1,2 +1,4 @@
 # nested-filters-example
-Simple example of nested filters in frontend.
+
+Example of nested filters in React.
+How to apply many filters at the same array, persisting the original state, in React.
