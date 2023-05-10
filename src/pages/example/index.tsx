@@ -11,6 +11,7 @@ export interface Device {
   ram: string;
 }
 
+//--//
 const Example = () => {
   const [devicesData, setDevicesData] = useState<Device[]>(data);
   const [filter, setFilter] = useState<Partial<Device>>({
